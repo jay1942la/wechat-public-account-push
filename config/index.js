@@ -16,14 +16,12 @@ export const config = {
     city: "南通",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
-      {"name": "老婆", "year": "2001", "date": "2-22", "type": 'r'},
-      //{"name": "家公", "year": "1993", "date": "08-09", "type": 'new'},
+      {"name": "小艾", "year": "2001", "date": "2-22", "type": 'r'},
     ],
     // 在一起的日子，格式同上
     loveDate: "2022-07-26",
     // 结婚纪念日
-    //marryDate: "2020-01-04"
-    //}
+
 
 // {{date.DATA}}  
 // 城市：{{city.DATA}}  
